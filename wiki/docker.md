@@ -22,6 +22,7 @@
 - [Volumes](#volumes)
 - [Health checks](#health-checks)
 - [`DockerHub`](#dockerhub)
+  - [`<your-dockerhub-username>`](#your-dockerhub-username)
 
 ## Image
 
@@ -211,3 +212,7 @@ You can push a locally built image to `DockerHub` so that other machines (such a
 Docs:
 
 - [`DockerHub`](https://hub.docker.com/)
+
+### `<your-dockerhub-username>`
+
+Your [`DockerHub`](#dockerhub) username (without `<` and `>`).
